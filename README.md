@@ -15,6 +15,12 @@
    6. Transformation
    7. Blurring
    8. Threshold
-                                                                                         
+               
+               
+ # RESULT
+ 
+ 
+
+![Github](https://user-images.githubusercontent.com/26872768/88154247-26333300-cc24-11ea-9f47-dfbaac2f4e74.gif)
 
 
